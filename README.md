@@ -1,2 +1,3 @@
-# qai-poc-lab
-# QAI PoC Lab Minimal Proof-of-Concept Lab for Quantum AI demos.
+# QAI PoC Lab
+Minimal Proof-of-Concept Lab for Quantum AI demos.
+
