@@ -1,0 +1,7 @@
+# Placeholder deployment manifest
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: qai-poc-placeholder
+data:
+  note: "Replace this with real manifests"
